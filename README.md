@@ -2,7 +2,7 @@
 
 ###
 
-<div align="right">
+<div align="middle">
   <img src="https://streak-stats.demolab.com?user=OscarFlavioJr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 

@@ -58,12 +58,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/OscarFlavioJr/OscarFlavioJr/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/OscarFlavioJr/count.svg?"  />
 </div>

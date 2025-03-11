@@ -29,15 +29,6 @@
 
 ---
 
-### 🔥 Featured Projects
-- 🛠 [**Project Name**](https://github.com/OscarFlavioJr/Project-Name) - A brief description of your project.
-- 🌍 [**Another Project**](https://github.com/OscarFlavioJr/Another-Project) - Describe what this project does.
-- 🤖 [**AI/ML Project**](https://github.com/OscarFlavioJr/AI-Project) - Explain your innovative AI/ML idea.
-
-*(Add links to your best repositories with short descriptions)*
-
----
-
 ### 📫 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">

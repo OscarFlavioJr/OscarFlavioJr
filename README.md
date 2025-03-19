@@ -1,5 +1,4 @@
-### 🚀 Computer Science Student | Passionate about Development
-
+### 🚀 Computer Science Student |Developer
 ---
 
 ### 📊 GitHub Stats
@@ -56,4 +55,4 @@
 ---
 
 ### 🎵 Fun Fact
-*"I'm used to code while listening to music and explore new technologies!"* 🎧💻
+*"I'm used to code while listening to music to explore new technologies!"* 🎧💻

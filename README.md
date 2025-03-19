@@ -1,4 +1,3 @@
-## Hi there! 👋 I'm Oscar Flávio Junior  
 ### 🚀 Computer Science Student | Passionate about Development
 
 ---
@@ -6,7 +5,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OscarFlavioJr&show_icons=true&theme=dark&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OscarFlavioJr&show_icons=true&theme=light&count_private=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OscarFlavioJr&theme=dark"/>
 </div>
 
@@ -14,30 +13,30 @@
 
 ### 💡 About Me
 - 🎓 I'm a Computer Science student from Brazil.
-- 💻 Passionate about programming, web development, and AI.
-- 🌱 Currently learning **Rust**, **Machine Learning**, and **Cloud Computing**.
-- 🚀 Building innovative solutions with **Python**, **TypeScript**, and **Java**.
-- 💬 Ask me anything about **Web Scraping**, **APIs**, and **Full Stack Development**.
+- 💻 Programming, web development.
+- 🌱 Trying to learn **Rust**, **Machine Learning**, and **Cloud Computing**.
+- 🚀 Building solutions with **Python**, **TypeScript**, and **Java**.
+- 💬 Ask me anything about **Web Scraping**.
 
 ---
 
 ### 🏆 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarFlavioJr&layout=compact&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarFlavioJr&layout=compact&theme=light"/>
 </div>
 
 ---
 
 ### 📫 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/oscar-fl%C3%A1vio-848492139//" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:youremail@gmail.com" target="_blank">
+  <a href="mailto:oscarflaviojur@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/yourinstagram/" target="_blank">
+  <a href="https://www.instagram.com/Oscar_flavio_jr/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
@@ -58,4 +57,4 @@
 ---
 
 ### 🎵 Fun Fact
-*"I love coding while listening to music and exploring new technologies!"* 🎧💻
+*"I'm used to code while listening to music and explore new technologies!"* 🎧💻

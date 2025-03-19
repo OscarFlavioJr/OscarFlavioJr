@@ -6,7 +6,6 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OscarFlavioJr&show_icons=true&theme=light&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OscarFlavioJr&theme=dark"/>
 </div>
 
 ---

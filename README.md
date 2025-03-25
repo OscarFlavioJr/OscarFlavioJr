@@ -1,5 +1,5 @@
 ### 🚀 Computer Science Student |Developer
----
+
 
 <h3 align="center">
         <samp>Hello! My name is Oscar <br>Be welcome to my GitHub profile.</samp>

@@ -1,4 +1,4 @@
-### 🚀 Computer Science Student |Developer
+### 🚀 Computer Science Student 
 
 
 <h2 align="center">

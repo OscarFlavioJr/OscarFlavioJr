@@ -1,9 +1,9 @@
 ### 🚀 Computer Science Student |Developer
 
 
-<h3 align="center">
+<h2 align="center">
         <samp>Hello! My name is Oscar <br>Be welcome to my GitHub profile.</samp>
-</h3>
+</h2>
 
 <h3 align="center">
         How to reach me:

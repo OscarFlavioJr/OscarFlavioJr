@@ -37,3 +37,5 @@
 
 ### 🎵 Fun Fact
 *"I'm used to code while listening to music to explore new technologies!"* 🎧💻
+
+---

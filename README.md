@@ -1,4 +1,4 @@
- ### 🚀 Computer Science Student 
+ ### 🚀 Student of Computers Science
 
 
 <h2 align="center">

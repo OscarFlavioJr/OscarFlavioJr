@@ -24,7 +24,7 @@
 
 ---
 
-### 🧰 Main Tech Stack
+### 🧰 Main Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ruby,rails,java,ts,docker,git&theme=dark" alt="Tech Stack" />

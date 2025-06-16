@@ -1,5 +1,4 @@
- ### 🚀 Student of Computers Science
-
+### 🚀 Student of Computers Science
 
 <h2 align="center">
         <samp>Hello! My name is Oscar <br>Be welcome to my GitHub profile.</samp>
@@ -20,19 +19,24 @@
 
 <h3 align="center">
         Stack:
-  <p/>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=ruby,rails,cs,python,ts,git,docker" />
-    </a>
-   [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarFlavioJr)
-  </p>
 </h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ruby,rails,cs,python,ts,git,docker" />
+  </a>
+</p>
+
 ---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OscarFlavioJr&show_icons=true&theme=tokyonight&count_private=true" alt="Oscar's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarFlavioJr&layout=compact&theme=tokyonight" alt="Top Langs" height="165"/>
+</p>
 
 ---
 
 ### 🎵 Fun Fact
 *"I'm used to code while listening to music to explore new technologies!"* 🎧💻
-
----

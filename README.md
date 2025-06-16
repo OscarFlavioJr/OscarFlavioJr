@@ -1,62 +1,58 @@
-### 🚀 Computer Science Student | Fullstack Developer in Progress
+##  Oscar Flávio Jr.
 
 <h2 align="center">
-  <samp>Hello! I'm Oscar 👋 <br>Welcome to my GitHub profile.</samp>
+  <samp>Backend Developer • Computer Science Student</samp>
 </h2>
+
+<p align="center">
+  Developer focused on backend architecture, clean code, and scalable APIs. <br>
+  Currently working with Ruby on Rails, TypeScript, Java, and Docker in personal and academic projects.
+</p>
 
 ---
 
-### 📫 How to reach me
+### 📫 Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/oscar-fl%C3%A1vio-848492139/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:oscarflaviojur@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+### 🧰 Main Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,rails,cs,python,ts,git,docker" alt="Tech Stack Icons" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=ruby,rails,java,ts,docker,git&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OscarFlavioJr&show_icons=true&theme=tokyonight&count_private=true" alt="Oscar's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarFlavioJr&layout=compact&theme=tokyonight" alt="Oscar's Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=OscarFlavioJr&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarFlavioJr&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 ---
 
-### 🧠 Currently Learning
+### 🚧 Continuously Improving
 
-- Ruby & RubyOnRails
-- ASP.NET Core (C#)
-- Software architecture patterns
-- DevOps & CI/CD fundamentals
-
----
-
-### 📌 Highlight
-
-> 🛠 I contributed to an open-source project ([Hydra](https://github.com/archlinuxbr/hydra)).  
----
-
-### 🎵 Fun Fact
-
-> *"I often code while listening to music — it helps me focus and sparks creativity."* 🎧💻  
-> Feel free to check out [my music-inspired projects](https://github.com/OscarFlavioJr?tab=repositories&q=music&type=&language=&sort=) 🎶
+- Building RESTful APIs with Ruby on Rails  
+- Working with TypeScript (Node.js and frontend integrations)  
+- Learning clean architecture, MVC, and SOLID principles  
+- Using Docker for containerization and deployment  
+- Learning Java for backend and microservices development
 
 ---
 
-⭐ *Thanks for visiting! Feel free to explore my projects, follow me, or connect!*
+### ✅ Notable Contributions
+
+> Contributed to the [Hydra (ArchLinuxBR)](https://github.com/archlinuxbr/hydra) project by translating documentation into Brazilian Portuguese.  
+
+---

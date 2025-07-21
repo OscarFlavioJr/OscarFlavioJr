@@ -1,17 +1,44 @@
-##  Oscar Flávio Jr.
+## 🧠 Oscar Flávio Jr.
 
 <h2 align="center">
-  <samp>Backend Developer • Computer Science Student</samp>
+  <samp>Software Engineer • Computer Science Student</samp><br>
+  <samp>Crafting scalable backends with clean code principles</samp>
 </h2>
 
 <p align="center">
-  Developer focused on backend architecture, clean code, and scalable APIs. <br>
-  Currently working with Ruby on Rails, TypeScript, Java, and Docker in personal and academic projects.
+  ⌛ I've been programming for <strong><img src="https://shields.io/endpoint?url=https://gist.githubusercontent.com/OscarFlavioJr/yourgistid/raw/dev-days.json&style=flat-square" alt="Days of Coding"> </strong> days.
 </p>
 
 ---
 
-### 📫 Contact
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ruby,java,cpp,ts,docker,git&theme=dark" alt="Tech Stack" />
+</p>
+
+---
+
+### 🚀 About Me
+
+- 🧩 Focused on backend architecture, scalability, and clean design
+- 💎 Building APIs with Ruby on Rails
+- 🧪 Exploring TypeScript (Node.js & frontend integration)
+- 📦 Learning Java for backend & microservices
+- 🐳 Using Docker for containerization and deployment
+- 🔧 Embracing clean architecture, MVC & SOLID principles
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarFlavioJr&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+### 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/oscar-fl%C3%A1vio-848492139/" target="_blank">
@@ -24,34 +51,8 @@
 
 ---
 
-### 🧰 Main Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ruby,java,cpp,ts,docker,git&theme=dark" alt="Tech Stack" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarFlavioJr&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
-
-### 🚧 Continuously Improving
-
-- Building RESTful APIs with Ruby on Rails  
-- Working with TypeScript (Node.js and frontend integrations)  
-- Learning clean architecture, MVC, and SOLID principles  
-- Using Docker for containerization and deployment  
-- Learning Java for backend and microservices development
-
----
-
 ### ✅ Notable Contributions
 
-> Contributed to the [Hydra (ArchLinuxBR)](https://github.com/archlinuxbr/hydra) project by translating documentation into Brazilian Portuguese.  
+> 📘 Contributed to [Hydra (ArchLinuxBR)](https://github.com/archlinuxbr/hydra) by translating documentation to Brazilian Portuguese.
 
 ---

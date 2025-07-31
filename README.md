@@ -14,7 +14,7 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ruby,cs,cpp,ts,docker,git&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ruby,cs,java,cpp,ts,docker,git&theme=dark" alt="Tech Stack" />
 </p>
 
 ---

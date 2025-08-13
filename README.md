@@ -43,15 +43,15 @@ Skills
     </td>
      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySql
+      <br>JavaScript
     </td>
      <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="HTML" />
-      <br>HTML
+      <br>Ruby
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=rails" width="48" height="48" alt="css" />
-      <br>CSS
+      <br>Rails
     </td>
     <td align="center" width="96">
       <a href="#git" >
@@ -61,9 +61,9 @@ Skills
     </td>
         <td align="center" width="96">
       <a href="#git" >
-        <img src="https://imgs.search.brave.com/ethlyM_NVLfhjhx_IInfXICxyLLpyUa8w8m43sdmt_A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9hbmd1bGFy/LWljb24tMTkzMXgy/MDQ4LWJlZjFmM2xt/LnBuZw" width="48" height="48" alt="Git" />
+         <img src="https://skillicons.dev/icons?i=next" width="48" height="48" alt="css" />
       </a>
-      <br>Angular
+      <br>Next.js
     </td>
     
 </tr>

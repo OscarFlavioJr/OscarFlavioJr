@@ -6,7 +6,7 @@
   <tr>
     <img
       align="left"
-      src="https://github-readme-stats.vercel.app/api?username=OscarFlavioJr&theme=dracula&show_icons=true"
+      src="https://github-readme-stats.vercel.app/api?username=OscarFlavioJr&theme=dark&show_icons=true"
       alt="GitHub Stats">
          </td>
     <td>

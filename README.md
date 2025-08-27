@@ -1,4 +1,10 @@
-### Olá, meu nome é Oscar!
+### Hi there, my name is Oscar!
+### I'm computer science student, now on sixth period.
+### I'm 21 years old
+### Beyond Ruby, my favourite language is TS
+### 🇧🇷 & 🇬🇧
+### FullTime Aston Villa and Atletico Mineiro Supporter
+### You may message me on Instagram or Gmail, both are just below
 
 ### ⚙️ GitHub Analytics
 

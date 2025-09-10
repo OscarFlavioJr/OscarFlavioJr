@@ -31,8 +31,12 @@ Skills
 
   <tr>
     <td align="center"  width="96">
-        <img src="https://techstack-generator.vercel.app/rb-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="css" />
       <br>Ruby
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=rails" width="48" height="48" alt="css" />
+      <br>Rails
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
@@ -56,10 +60,6 @@ Skills
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
       <br>Java
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=rails" width="48" height="48" alt="css" />
-      <br>Rails
     </td>
     <td align="center" width="96">
       <a href="#git" >

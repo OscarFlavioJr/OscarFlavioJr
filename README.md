@@ -56,16 +56,17 @@ Skills
         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
       <br>Java
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" />
-      </a>
-      <br>Docker
         <td align="center" width="96">
       <a href="#next" >
          <img src="https://skillicons.dev/icons?i=next" width="48" height="48" alt="css" />
       </a>
       <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" />
+      </a>
+      <br>Docker
     </td>
      <td align="center" width="96">
       <a href="#git" >

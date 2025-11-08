@@ -24,6 +24,10 @@ Skills
         <img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="css" />
       <br>Ruby
     </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="css" />
+      <br>Go
+    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=rails" width="48" height="48" alt="css" />
       <br>Rails

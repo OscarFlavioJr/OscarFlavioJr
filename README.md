@@ -25,7 +25,7 @@ Skills
       <br>Ruby
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="css" />
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="css" />
       <br>Go
     </td>
     <td align="center" width="96">

@@ -1,5 +1,5 @@
 # Oscar Flávio Jr.
-**Software Engineer | Backend Specialist**
+**Software Engineer | Fullstack Dev**
 
 Desenvolvedor focado na construção de sistemas escaláveis e manutenção de arquiteturas distribuídas. Experiência técnica centrada no ecossistema Ruby/Rails e Java, com foco em performance e boas práticas de engenharia (SOLID, DRY, Clean Code).
 

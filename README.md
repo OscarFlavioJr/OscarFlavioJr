@@ -5,7 +5,7 @@ Desenvolvedor focado na construção de sistemas escaláveis e manutenção de a
 
 ---
 
-### 🛠 Stack Tecnológica
+### 🛠 Stack
 
 **Linguagens & Frameworks**
 <p align="left">

@@ -1,66 +1,141 @@
-# 👨‍💻 Oscar Flávio Jr.
-### `Software Engineer` · `Backend Developer` · `Systems Enthusiast`
+# Oscar Flávio Jr.
+
+<h3 align="center">Software Engineer | Backend Development | System Architecture</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Building+systems%2C+not+just+features.;Understanding+before+implementing.;Turning+complexity+into+elegant+solutions." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+software+that+solves+real+problems.;Backend+Engineering+%7C+System+Architecture;Exploring+AI%2C+APIs+and+Scalable+Systems.;Understand+deeply.+Build+intelligently." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-161B22?style=for-the-badge&logo=serverfault&logoColor=00BFFF" />
-  <img src="https://img.shields.io/badge/Mindset-Continuous%20Learning-161B22?style=for-the-badge&logo=bookstack&logoColor=00BFFF" />
-  <img src="https://img.shields.io/badge/Location-Brazil-161B22?style=for-the-badge&logo=googlemaps&logoColor=00BFFF" />
+  <a href="https://github.com/OscarFlavioJr">
+    <img src="https://img.shields.io/badge/GitHub-OscarFlavioJr-181717?style=for-the-badge&logo=github" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Brazil-16A34A?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
 
-## `01` · About Me
+## 👋 About Me
 
-```yaml
-name: Oscar Flávio Jr.
-role: Software Engineer
-location: Brazil 🇧🇷
+I'm **Oscar Flávio Jr.**, a Brazilian software developer passionate about backend engineering, software architecture, and building technology-driven solutions.
 
-interests:
-  - Backend Engineering
-  - System Architecture
-  - Distributed Systems
-  - Performance Optimization
-  - Infrastructure & DevOps
+My interests go beyond writing code. I enjoy understanding how systems work, exploring architectural decisions, solving complex problems, and developing applications that can evolve into reliable and scalable products.
 
-philosophy: "Understand deeply. Build intelligently."
-```
+My main technical interests include:
 
-I'm a software developer passionate about understanding how systems work, why architectural decisions matter, and how technology can solve real-world problems.
+- Backend Engineering and API Development.
+- Software Architecture and System Design.
+- Distributed Systems and Scalability.
+- Database Engineering and Performance.
+- Artificial Intelligence and Local AI Applications.
+- Infrastructure, Automation, and DevOps.
 
-My main interests lie in **backend engineering, system design, and scalable architectures**.
+I believe that good engineering starts with understanding the problem, not choosing a framework.
 
-I enjoy exploring the fundamentals behind the tools I use, experimenting with different technologies, and building solutions that go beyond simply making things work.
-
-For me, good software isn't just about writing code. It's about understanding the problem, making thoughtful decisions, and building something that stands the test of time.
+I'm constantly learning, experimenting, and building projects that challenge me to think beyond implementation.
 
 ---
 
-## `02` · Tech Arsenal
+## 🚀 Featured Projects
 
-### 💻 Languages & Frameworks
+<p align="center">
+  <a href="https://github.com/OscarFlavioJr/GPA---Geographic-Proximity-API">
+    <img src="https://img.shields.io/badge/EXPLORE-GPA-0EA5E9?style=for-the-badge&logo=go&logoColor=white" />
+  </a>
+  <a href="https://github.com/OscarFlavioJr/Allan">
+    <img src="https://img.shields.io/badge/EXPLORE-ALLAN-7C3AED?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+</p>
+
+### 🌎 GPA — Geographic Proximity API
+
+<a href="https://github.com/OscarFlavioJr/GPA---Geographic-Proximity-API">
+  <img src="https://img.shields.io/badge/Go-Backend%20Engineering-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/API-REST-0EA5E9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20Source-AGPL--3.0-22C55E?style=flat-square" />
+</a>
+
+**A progressive geographic proximity engine designed to help applications discover nearby locations without coupling geographic logic to business rules.**
+
+GPA is an independent, open-source API focused on geographic proximity across Brazilian municipalities.
+
+Its architecture is designed around progressive search: applications receive nearby municipalities in batches and request additional results when needed.
+
+**Engineering highlights:**
+
+- Geographic proximity calculations using the Haversine formula.
+- Coverage of 5,571 Brazilian municipalities in its geographic dataset.
+- Progressive search and cursor-based pagination design.
+- Stateless architecture using HMAC-signed cursors.
+- Compact geographic data structures and on-demand loading by state.
+- Go-based backend architecture.
+- Docker support and API documentation.
+
+**Current focus:** Geographic data foundation and core infrastructure, with the proximity engine and search endpoints under development.
+
+<p>
+  <a href="https://github.com/OscarFlavioJr/GPA---Geographic-Proximity-API">📂 Repository</a>
+</p>
+
+---
+
+### 🤖 Allan — Local AI Desktop Assistant
+
+<a href="https://github.com/OscarFlavioJr/Allan">
+  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-Ollama-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Linux-Desktop%20Application-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</a>
+
+**A personal, local, always-on AI assistant designed to interact with and control a Linux desktop environment.**
+
+Allan is a floating desktop overlay powered by locally running AI models through Ollama.
+
+The project explores the integration of artificial intelligence with operating system resources, desktop applications, and everyday workflows.
+
+**Engineering highlights:**
+
+- Local AI inference through Ollama.
+- Support for different language models, including Llama, Qwen, and DeepSeek.
+- GTK3-based desktop overlay.
+- Natural language interaction.
+- System monitoring for CPU, RAM, disk, and processes.
+- Desktop application detection and launching.
+- Music and volume control through system integrations.
+- File navigation and management.
+- Screen capture and visual analysis using vision-capable models.
+- Configurable interface and automatic startup.
+
+**Engineering focus:** Local AI, desktop automation, Python, Linux integration, and human-computer interaction.
+
+<p>
+  <a href="https://github.com/OscarFlavioJr/Allan">📂 Repository</a>
+</p>
+
+---
+
+## 🛠️ Technology Stack
+
+### Languages & Frameworks
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ruby,rails,java,spring,ts,go,python&theme=dark" />
 </p>
 
-### 🗄️ Databases & Storage
+### Databases & Storage
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,redis,mysql&theme=dark" />
 </p>
 
-### ⚙️ Infrastructure & DevOps
+### Infrastructure & DevOps
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,linux,aws,nginx,githubactions&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,aws,githubactions&theme=dark" />
 </p>
 
-### 🔧 Tools & Workflow
+### Tools & Development Environment
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,bash&theme=dark" />
@@ -68,88 +143,100 @@ For me, good software isn't just about writing code. It's about understanding th
 
 ---
 
-## `03` · Engineering Interests
+## 🧠 Engineering Interests
 
 <table>
   <tr>
     <td width="50%">
-      <h3>🏗️ System Architecture</h3>
-      Designing maintainable applications, modular systems, and scalable solutions.
+      <h3>🏗️ Software Architecture</h3>
+      Designing maintainable systems, modular applications, and reliable software structures.
     </td>
     <td width="50%">
       <h3>⚡ Backend Engineering</h3>
-      Building APIs, business logic, integrations, and reliable services.
+      Building APIs, business logic, integrations, and efficient backend services.
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🐳 Infrastructure</h3>
-      Containerization, Linux environments, deployment automation, and production systems.
+      <h3>🌐 Distributed Systems</h3>
+      Exploring concurrency, communication patterns, horizontal scalability, and fault tolerance.
     </td>
     <td width="50%">
-      <h3>🧠 Software Craftsmanship</h3>
-      SOLID, design patterns, clean code, algorithms, and engineering fundamentals.
+      <h3>🤖 Artificial Intelligence</h3>
+      Exploring local AI models, intelligent assistants, and practical AI integrations.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🗄️ Database Engineering</h3>
+      Data modeling, query optimization, indexing, and efficient data access.
+    </td>
+    <td width="50%">
+      <h3>🐳 Infrastructure & DevOps</h3>
+      Linux, containers, deployment automation, and production environments.
     </td>
   </tr>
 </table>
 
 ---
 
-## `04` · GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=OscarFlavioJr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarFlavioJr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=OscarFlavioJr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide_rank=true&hide=contribs" alt="Oscar's GitHub Statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarFlavioJr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Programming Languages" />
 </p>
 
-<p align="center">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=OscarFlavioJr&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## `05` · Contribution Activity
+### Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OscarFlavioJr&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OscarFlavioJr&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity" />
 </p>
 
 ---
 
-## `06` · Beyond the Code
+## 📚 Always Learning
 
-```text
-Curiosity       ████████████████████  100%
-Problem Solving ████████████████████  100%
-Learning        ████████████████████  100%
-Coffee          ████████████████████  100%
-```
+Technology evolves, and so should engineers.
 
-I believe the best engineers never stop being students.
+Currently exploring:
 
-There is always another system to understand, another problem to solve, and another perspective worth exploring.
+- Go and high-concurrency backend applications.
+- Distributed systems and scalable architecture.
+- Advanced database concepts and optimization.
+- Local AI models and intelligent desktop applications.
+- System design and software engineering fundamentals.
 
 ---
 
-## `07` · Let's Connect
+## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/oscar-flavio-60192b373/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/oscarflaviojr/">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:oscarflaviojur@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:oscarflaviojunior@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/OscarFlavioJr">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=OscarFlavioJr&style=for-the-badge&color=00BFFF&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=OscarFlavioJr&style=for-the-badge&color=0EA5E9&label=PROFILE+VISITORS" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:0EA5E9&height=120&section=footer" width="100%" />
 </p>
 
 <p align="center">
-  <i>"First, understand the system. Then, make it better."</i>
+  <b>Understand deeply. Build intelligently. Keep evolving.</b>
 </p>
 
 <p align="center">
-  <sub>Designed with curiosity. Built with engineering.</sub>
+  <sub>Software Engineering · Backend Development · System Architecture · Brazil 🇧🇷</sub>
 </p>

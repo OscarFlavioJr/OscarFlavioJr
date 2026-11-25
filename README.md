@@ -1,74 +1,155 @@
-Oscar Flávio Jr.
+# 👨‍💻 Oscar Flávio Jr.
+### `Software Engineer` · `Backend Developer` · `Systems Enthusiast`
 
-Software Engineer · Backend & Systems
-
-I like understanding how things work, figuring out how they can work better, and building things that actually matter.
-
-Sou desenvolvedor de software, interessado principalmente em backend, arquitetura de sistemas e engenharia de software.
-
-Gosto de ir além da implementação. Quero entender as decisões por trás de uma arquitetura, os problemas que ela resolve, seus limites e como torná-la melhor.
-
-Tenho uma afinidade especial com o ecossistema Ruby/Rails e Java, além de explorar novas tecnologias e abordagens para construir aplicações cada vez mais eficientes, organizadas e escaláveis.
-
-Acredito que escrever código é apenas uma parte do trabalho. Entender o problema, projetar a solução e saber por que ela funciona é o que realmente faz diferença.
-
-⚙️ Technologies & Tools
-
-Languages & Backend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ruby,rails,java,spring,ts,go,python&perline=7" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Building+systems%2C+not+just+features.;Understanding+before+implementing.;Turning+complexity+into+elegant+solutions." alt="Typing SVG" />
 </p>
 
-Databases & Infrastructure
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,linux,aws,nginx&perline=6" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-161B22?style=for-the-badge&logo=serverfault&logoColor=00BFFF" />
+  <img src="https://img.shields.io/badge/Mindset-Continuous%20Learning-161B22?style=for-the-badge&logo=bookstack&logoColor=00BFFF" />
+  <img src="https://img.shields.io/badge/Location-Brazil-161B22?style=for-the-badge&logo=googlemaps&logoColor=00BFFF" />
 </p>
 
-Development Workflow
+---
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,idea&perline=5" />
+## `01` · About Me
+
+```yaml
+name: Oscar Flávio Jr.
+role: Software Engineer
+location: Brazil 🇧🇷
+
+interests:
+  - Backend Engineering
+  - System Architecture
+  - Distributed Systems
+  - Performance Optimization
+  - Infrastructure & DevOps
+
+philosophy: "Understand deeply. Build intelligently."
+```
+
+I'm a software developer passionate about understanding how systems work, why architectural decisions matter, and how technology can solve real-world problems.
+
+My main interests lie in **backend engineering, system design, and scalable architectures**.
+
+I enjoy exploring the fundamentals behind the tools I use, experimenting with different technologies, and building solutions that go beyond simply making things work.
+
+For me, good software isn't just about writing code. It's about understanding the problem, making thoughtful decisions, and building something that stands the test of time.
+
+---
+
+## `02` · Tech Arsenal
+
+### 💻 Languages & Frameworks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ruby,rails,java,spring,ts,go,python&theme=dark" />
 </p>
 
-🏗️ What I'm Building & Exploring
+### 🗄️ Databases & Storage
 
-Backend Engineering: APIs, application architecture, performance and scalability.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mysql&theme=dark" />
+</p>
 
-System Design: Designing solutions that remain maintainable as they grow.
+### ⚙️ Infrastructure & DevOps
 
-Infrastructure: Docker, Linux, deployment pipelines and production environments.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,linux,aws,nginx,githubactions&theme=dark" />
+</p>
 
-Software Architecture: SOLID, clean code, design patterns and thoughtful engineering decisions.
+### 🔧 Tools & Workflow
 
-New Technologies: Constantly exploring languages, tools and different ways to solve problems.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,bash&theme=dark" />
+</p>
 
-I enjoy building projects that challenge me to think beyond the code itself.
+---
 
-📊 GitHub Activity
+## `03` · Engineering Interests
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OscarFlavioJr&theme=dark&show_icons=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarFlavioJr&theme=dark&layout=compact&langs_count=8" height="165" />
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🏗️ System Architecture</h3>
+      Designing maintainable applications, modular systems, and scalable solutions.
+    </td>
+    <td width="50%">
+      <h3>⚡ Backend Engineering</h3>
+      Building APIs, business logic, integrations, and reliable services.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🐳 Infrastructure</h3>
+      Containerization, Linux environments, deployment automation, and production systems.
+    </td>
+    <td width="50%">
+      <h3>🧠 Software Craftsmanship</h3>
+      SOLID, design patterns, clean code, algorithms, and engineering fundamentals.
+    </td>
+  </tr>
+</table>
 
-🧠 A Little About My Approach
+---
 
-Understand first, implement second.
+## `04` · GitHub Analytics
 
-Prefer fundamentals over shortcuts.
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=OscarFlavioJr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarFlavioJr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
 
-Write code that other people can understand.
+<p align="center">
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=OscarFlavioJr&theme=tokyonight&hide_border=true" />
+</p>
 
-Treat performance and maintainability as engineering concerns.
+---
 
-Never stop being curious.
+## `05` · Contribution Activity
 
-🤝 Let's Connect
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OscarFlavioJr&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
 
-<p align="left">   <a href="https://www.linkedin.com/in/oscarflaviojr/">     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />   </a>   <a href="mailto:oscarflaviojunior@gmail.com">     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+---
+
+## `06` · Beyond the Code
+
+```text
+Curiosity       ████████████████████  100%
+Problem Solving ████████████████████  100%
+Learning        ████████████████████  100%
+Coffee          ████████████████████  100%
+```
+
+I believe the best engineers never stop being students.
+
+There is always another system to understand, another problem to solve, and another perspective worth exploring.
+
+---
+
+## `07` · Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/oscar-flavio-60192b373/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:oscarflaviojur@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<sub>Building, breaking, understanding, rebuilding. That's part of the process.</sub>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=OscarFlavioJr&style=for-the-badge&color=00BFFF&label=PROFILE+VIEWS" />
+</p>
+
+<p align="center">
+  <i>"First, understand the system. Then, make it better."</i>
+</p>
+
+<p align="center">
+  <sub>Designed with curiosity. Built with engineering.</sub>
+</p>

@@ -104,8 +104,6 @@ A proposta é oferecer uma infraestrutura simples e eficiente para aplicações 
 - Carregamento de dados sob demanda por estado.
 - Containerização com Docker.
 
-[**→ Acessar repositório**](https://github.com/OscarFlavioJr/GPA---Geographic-Proximity-API)
-
 ---
 
 ### 02. Allan — Local AI Assistant
@@ -126,7 +124,6 @@ A ideia é explorar como modelos de linguagem locais podem interagir com o siste
 - Captura de tela e recursos de visão computacional.
 - Integração com modelos como Llama, Qwen e DeepSeek.
 
-[**→ Acessar repositório**](https://github.com/OscarFlavioJr/Allan)
 
 ---
 

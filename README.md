@@ -32,13 +32,11 @@ Sou **Engenheiro de Software**, bacharel em Ciência da Computação e apaixonad
 
 Minha atuação está principalmente no desenvolvimento backend, arquitetura de software e engenharia de aplicações com inteligência artificial.
 
+Atualmente, sou o único desenvolvedor da ILoveMyJob, onde sou responsável pela criação dos produtos digitais da empresa — da concepção técnica à implementação e evolução das funcionalidades.
+
 Gosto de participar do processo completo: entender o problema, pensar na solução, definir a arquitetura, desenvolver, colocar em produção e acompanhar sua evolução.
 
-Tenho interesse especial em sistemas que precisam lidar com dados, performance, integrações e decisões arquiteturais.
-
 Mais do que simplesmente fazer algo funcionar, gosto de entender **por que funciona, como funciona e como pode funcionar melhor.**
-
-Atualmente, estou aprofundando meus conhecimentos em Go, arquitetura de sistemas, infraestrutura e AI Engineering.
 
 ```bash
 oscar@engineering:~$ cat philosophy.txt
@@ -55,23 +53,31 @@ Keep evolving.
 
 ### Software Engineer — ILoveMyJob
 
-Atuação no desenvolvimento e evolução de produtos digitais, com participação em decisões técnicas, arquitetura, infraestrutura e implementação de funcionalidades.
+**Responsável pela engenharia e desenvolvimento dos produtos digitais da empresa.**
 
-Um dos principais projetos em que trabalhei foi o **Radar**, uma plataforma que reúne diferentes recursos para tornar processos de recrutamento mais inteligentes.
+Como único desenvolvedor da ILoveMyJob, sou responsável por transformar as necessidades do negócio em produtos digitais, construindo suas soluções técnicas de ponta a ponta.
 
-Entre as soluções desenvolvidas:
+Criei todos os produtos digitais da empresa e desenvolvi suas funcionalidades, assumindo responsabilidades que abrangem diferentes áreas da engenharia de software.
 
-- APIs e serviços para integração e processamento de dados.
-- Dashboards analíticos e funcionalidades orientadas a dados.
-- Assistente baseado em RAG para responder dúvidas de candidatos.
-- Sistemas de alertas e automações.
-- Evolução de infraestrutura, manutenção e arquitetura do produto.
+**Minha atuação envolve:**
 
-**Um resultado que merece destaque:**
+- Concepção técnica e desenvolvimento de produtos digitais.
+- Arquitetura de software e definição de soluções técnicas.
+- Desenvolvimento de APIs e serviços backend.
+- Implementação de interfaces e dashboards analíticos.
+- Integração de inteligência artificial em produtos.
+- Desenvolvimento de funcionalidades baseadas em RAG.
+- Modelagem e integração de bancos de dados.
+- Infraestrutura, deploy, manutenção e evolução dos sistemas.
+- Identificação de problemas e transformação de necessidades de negócio em soluções técnicas.
 
-Trabalhei na otimização de uma solução RAG para o Grupo Fleury, reduzindo o tempo de resposta em até **10x** por meio de cache semântico, busca vetorial e recuperação mais eficiente de contexto.
+**Um dos principais produtos: Radar**
 
-Minha experiência envolve não apenas escrever código, mas também compreender o produto, identificar gargalos e construir soluções que gerem impacto real.
+Participei da construção do Radar desde sua concepção, desenvolvendo sua estrutura técnica e funcionalidades.
+
+A plataforma reúne recursos como APIs, dashboards analíticos, sistemas de alertas e um assistente baseado em RAG para responder dúvidas de candidatos.
+
+Essa experiência me proporcionou responsabilidade direta sobre todo o ciclo de desenvolvimento: da ideia ao produto em produção.
 
 ---
 
@@ -88,6 +94,7 @@ Uma API desenvolvida para calcular proximidade geográfica entre municípios bra
 A proposta é oferecer uma infraestrutura simples e eficiente para aplicações que precisam considerar distância e localização em suas operações.
 
 **Destaques técnicos:**
+
 - Base geográfica com 5.571 municípios brasileiros.
 - Cálculo de distância utilizando a fórmula de Haversine.
 - Busca progressiva por proximidade.
@@ -110,6 +117,7 @@ Um assistente pessoal de inteligência artificial desenvolvido para desktop Linu
 A ideia é explorar como modelos de linguagem locais podem interagir com o sistema operacional e executar tarefas diretamente no ambiente do usuário.
 
 **Funcionalidades exploradas:**
+
 - Integração com modelos locais via Ollama.
 - Interface flutuante com GTK3.
 - Interação com arquivos e aplicações.
@@ -126,13 +134,19 @@ A ideia é explorar como modelos de linguagem locais podem interagir com o siste
 
 **Ruby · Next.js · APIs · Analytics · RAG**
 
-Plataforma de recrutamento na qual participei da concepção, desenvolvimento e evolução técnica.
+Plataforma de recrutamento desenvolvida na ILoveMyJob.
 
-Um projeto que me permitiu trabalhar com diferentes dimensões da engenharia de software: backend, frontend, APIs, dados, inteligência artificial, infraestrutura e produto.
+Sou responsável pela criação e evolução técnica do produto, trabalhando desde sua concepção até a implementação das funcionalidades.
 
-Entre os desafios, destaco a implementação de recursos de RAG e otimização da recuperação de informações para melhorar a experiência dos usuários.
+**Principais componentes:**
 
-*Projeto desenvolvido em contexto profissional.*
+- APIs e serviços para integração e processamento de dados.
+- Dashboards analíticos.
+- Assistente de inteligência artificial baseado em RAG.
+- Sistema de alertas.
+- Funcionalidades voltadas à experiência de candidatos e empresas.
+
+*Desenvolvimento realizado em contexto profissional.*
 
 ---
 

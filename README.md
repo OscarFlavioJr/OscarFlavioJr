@@ -134,9 +134,9 @@ A ideia é explorar como modelos de linguagem locais podem interagir com o siste
 
 **Ruby · Next.js · APIs · Analytics · RAG**
 
-Plataforma de recrutamento desenvolvida na ILoveMyJob.
+Plataforma de Análise de reputação via IA
 
-Sou responsável pela criação e evolução técnica do produto, trabalhando desde sua concepção até a implementação das funcionalidades.
+Sou sócio e responsável pela criação e evolução técnica do produto, trabalhando desde sua concepção até a implementação das funcionalidades.
 
 **Principais componentes:**
 
